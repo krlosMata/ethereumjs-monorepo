@@ -1,4 +1,4 @@
-import { SecureTrie as Trie } from 'merkle-patricia-tree'
+import { CheckpointTrie as Trie } from 'merkle-patricia-tree'
 import { Account, Address, BNLike } from 'ethereumjs-util'
 import Blockchain from '@ethereumjs/blockchain'
 import Common, { Chain } from '@ethereumjs/common'
